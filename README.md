@@ -25,7 +25,7 @@ Update latest_version to the most current version of each package.
 ![Screenshot 2024-09-16 070744](https://github.com/user-attachments/assets/a8d5bda7-6b90-4797-80b9-ddf87bbd20b3)
 
 ## 🚀 Getting Started
-Clone the repository.
-Set up Firebase in your Flutter project.
-Add your Firebase configuration files.
-Run the app and manage your contacts effortlessly with Firebase and GetX.
+* Clone the repository.
+* Set up Firebase in your Flutter project.
+* Add your Firebase configuration files.
+* Run the app and manage your contacts effortlessly with Firebase and GetX.
